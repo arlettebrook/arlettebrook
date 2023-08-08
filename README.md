@@ -5,7 +5,7 @@
 
 
 <p align="center"> 
-    <a href='https://github.com/arlettebrook'><img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&theme=onedark&PAT_1 ">  </a>
+    <a href='https://github.com/arlettebrook'><img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&theme=onedark&PAT_1">  </a>
 </p>
 
 
