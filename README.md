@@ -10,13 +10,9 @@
 
 
 
-
-
 <p>
-    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/GITHey.gif?raw=true" width="100px"><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/Olaf.gif?raw=true" width="100px"></a><a href='https://github.com/Arlettebrook/arlettebrook'><img src='https://badges.frapsoft.com/os/v2/open-source.svg?v=103'></a><br/>
+    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/GITHey.gif?raw=true" width="100px" alt="GITHey" /><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/Olaf.gif?raw=true" width="100px" alt="Olaf" /></a><a href='https://github.com/Arlettebrook/arlettebrook'><img src='https://badges.frapsoft.com/os/v2/open-source.svg?v=103' alt="Open Source" /></a>
 </p>
-
-
 
 
 
@@ -32,10 +28,8 @@
 
 <div>
 	<a href='https://github.com/arlettebrook'>
-        <img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/header_.png?raw=true">  </a><br/>
+        <img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/header_.png?raw=true">  </a>
 </div>
-
-
 
 
 
