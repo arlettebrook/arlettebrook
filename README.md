@@ -6,7 +6,7 @@
 
 
 
-<div align='center'><a href='https://github.com/Arlettebrook/arlettebrook' ><img width="70%" align="center" alt="Github Image" src="icon/git-header.svg" /></a></div>
+<div align='center'><a href='https://github.com/Arlettebrook/arlettebrook' ><img width="70%" align="center" alt="Github Image" src="icon/git-header.svg" ></a></div>
 
 
 
