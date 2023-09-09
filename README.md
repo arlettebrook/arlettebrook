@@ -2,7 +2,7 @@
 
 
 
- <img src="icon/GITHey.gif" width="100px">  **Bonjour!**<img src="icon/Olaf.gif" width="100px"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Arlettebrook/arlettebrook)
+ <a href='https://github.com/Arlettebrook/arlettebrook'> <img src="icon/GITHey.gif" width="100px"> **Bonjour!** <img src="icon/Olaf.gif" width="100px"><a/> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Arlettebrook/arlettebrook)
 
 
 
