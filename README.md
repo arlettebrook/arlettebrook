@@ -10,35 +10,6 @@
 
 
 
-<div>
-    <img s
-</div>
-
-<div>
-    <img src=""
-</div>
-
-<div>
-   <a href='https://github.com/arlettebrook/autoCheck-in'><img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'></a> 
-    <a href='https://github.com/arlettebrook/autoCheck-in'><img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'></a>
-</div>
-
-
-
-<style>
-    <style>
-    .image-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-    }
-
-    .image-container > a {
-        width: 48%; /* 调整图片宽度以适应两列布局 */
-        margin-bottom: 20px; /* 调整图片之间的间距 */
-    }
-</style>
-
 <div class="image-container">
     <a href='https://github.com/arlettebrook/autoCheck-in'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
@@ -49,6 +20,16 @@
     <!-- 添加更多图片链接 -->
 </div>
 
+
+<div class="image-container">
+    <a href='https://github.com/arlettebrook/autoCheck-in'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+    </a>
+    <a href='https://github.com/arlettebrook/autoCheck-in'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+    </a>
+    <!-- 添加更多图片链接 -->
+</div>
 
 
 
