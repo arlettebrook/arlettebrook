@@ -1,8 +1,10 @@
+
+
 [![](assets/Bottom_up.svg)](https://github.com/Arlettebrook/arlettebrook)
 
-
-
-<a href="https://github.com/arlettebrook"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Arlettebrook." alt="Typing SVG" /></a>
+<p>
+    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/Olaf.gif?raw=true" width="100px" alt="Olaf" /></a><a href="https://github.com/arlettebrook"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Arlettebrook." alt="Typing SVG" /></a>
+</p>
 
 
 
@@ -32,7 +34,7 @@
 
 
 <p>
-    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/GITHey.gif?raw=true" width="100px" alt="GITHey" /></a>
+    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/coder.gif?raw=true" width="100px" alt="Olaf" /></a>
 </p>
 
 
@@ -47,12 +49,6 @@
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=radical'>
 </div>
-
-
-
-<p>
-    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/Olaf.gif?raw=true" width="100px" alt="Olaf" /></a>
-</p>
 
 
 
@@ -99,10 +95,6 @@
   * Email: arlettebrook@foxmail.com
 
 ---
-
-<p>
-    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/coder.gif?raw=true" width="100px" alt="Olaf" /></a>
-</p>
 
 
 
