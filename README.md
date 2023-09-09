@@ -10,9 +10,8 @@
 </p>
 
 
-
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=radical'>
 </div>
 
 
@@ -21,12 +20,12 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/autoCheck-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true&theme=cobalt'>
             </a>
         </td>
         <td>
             <a href='https://github.com/arlettebrook/arlettebrook'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true&theme=cobalt'>
             </a>
         </td>
     </tr>
@@ -34,23 +33,25 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/tencentVideoSign-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true&theme=cobalt'>
             </a>
         </td>
         <td>
             <a href='https://github.com/arlettebrook/null'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null&show_owner=true'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null&show_owner=true&theme=cobalt'>
             </a>
         </td>
     </tr>
 </table>
 
 
+
 <div align='center'>
     <a href='https://github.com/arlettebrook/arlettebrook'>
-                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical'>
+                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical&theme=synthwave'>
             </a>
 </div>
+
 
 
 
@@ -67,9 +68,7 @@
 
   If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
-
-
-
+> 这里提供了更多关于个人资料的模板，可以自由挑选自己喜欢的元素，加入到自己的profile中。
 
 <details>
     <summary>More profile templates</summary>
