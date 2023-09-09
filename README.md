@@ -1,12 +1,57 @@
 ![](assets/Bottom_up.svg)
 
-<a href="https://github.com/arlettebrook"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+arlettebrook." alt="Typing SVG" /></a>
+<a href="https://github.com/arlettebrook"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Arlettebrook." alt="Typing SVG" /></a>
 
 
 
 <p align="center"> 
-    <a href='https://github.com/arlettebrook'><img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&theme=onedark">  </a>
+    <a href='https://github.com/arlettebrook'><img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">  </a>
 </p>
+
+
+
+<div>
+    <img s
+</div>
+
+<div>
+    <img src=""
+</div>
+
+<div>
+   <a href='https://github.com/arlettebrook/autoCheck-in'><img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'></a> 
+    <a href='https://github.com/arlettebrook/autoCheck-in'><img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'></a>
+</div>
+
+
+
+<style>
+    <style>
+    .image-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .image-container > a {
+        width: 48%; /* 调整图片宽度以适应两列布局 */
+        margin-bottom: 20px; /* 调整图片之间的间距 */
+    }
+</style>
+
+<div class="image-container">
+    <a href='https://github.com/arlettebrook/autoCheck-in'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+    </a>
+    <a href='https://github.com/arlettebrook/autoCheck-in'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+    </a>
+    <!-- 添加更多图片链接 -->
+</div>
+
+
+
+
 
 
 
