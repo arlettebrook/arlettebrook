@@ -10,10 +10,6 @@
 
 
 
-<p>
-    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/GITHey.gif?raw=true" width="100px" alt="GITHey" /><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/Olaf.gif?raw=true" width="100px" alt="Olaf" /></a>
-</p>
-
 <a href='https://github.com/Arlettebrook/arlettebrook'><img src='https://badges.frapsoft.com/os/v2/open-source.svg?v=103' alt="Open Source" /></a>
 
 
@@ -35,6 +31,12 @@
 
 
 
+<p>
+    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/GITHey.gif?raw=true" width="100px" alt="GITHey" /></a>
+</p>
+
+
+
 <p align="center"> 
     <a href='https://github.com/arlettebrook'>
         <img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">  </a>
@@ -45,6 +47,12 @@
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=radical'>
 </div>
+
+
+
+<p>
+    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/Olaf.gif?raw=true" width="100px" alt="Olaf" /></a>
+</p>
 
 
 
@@ -92,6 +100,10 @@
 
 ---
 
+<p>
+    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/coder.gif?raw=true" width="100px" alt="Olaf" /></a>
+</p>
+
 
 
   If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.
@@ -100,7 +112,7 @@
 
   If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda.
 
-> 这里提供了更多关于个人资料的模板，可以自由挑选自己喜欢的元素，加入到自己的profile中。如果觉得有用，感谢给[本项目](https://github.com/Arlettebrook/arlettebrook)一颗心⭐。
+> 下面有更多关于个人资料的模板，可以自由挑选自己喜欢的元素，加入到自己的profile中。如果觉得有用，感谢给[本项目](https://github.com/Arlettebrook/arlettebrook)一颗心⭐。
 
 <details>
     <summary>More profile templates</summary>
