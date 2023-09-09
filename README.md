@@ -4,8 +4,15 @@
 
 
 
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact'>
+</div>
+
+
+
 <p align="center"> 
-    <a href='https://github.com/arlettebrook'><img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">  </a>
+    <a href='https://github.com/arlettebrook'>
+        <img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">  </a>
 </p>
 
 
@@ -14,12 +21,12 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/autoCheck-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true'>
             </a>
         </td>
         <td>
             <a href='https://github.com/arlettebrook/autoCheck-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true'>
             </a>
         </td>
     </tr>
@@ -27,16 +34,18 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/tencentVideoSign-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true'>
             </a>
         </td>
         <td>
             <a href='https://github.com/arlettebrook/null'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null&show_owner=true'>
             </a>
         </td>
     </tr>
 </table>
+
+
 
 
 
