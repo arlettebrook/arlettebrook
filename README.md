@@ -10,11 +10,7 @@
 
 
 
-
-
-<a href='https://github.com/Arlettebrook/arlettebrook'><img src="icon/GITHey.gif" width="100px"><img src="icon/Olaf.gif" width="100px"></a>  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Arlettebrook/arlettebrook)
-
-
+<a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/GITHey.gif?raw=true" width="100px"><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/Olaf.gif?raw=true" width="100px"></a>  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Arlettebrook/arlettebrook)
 
 
 
@@ -36,6 +32,7 @@
     <a href='https://github.com/arlettebrook'>
         <img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">  </a>
 </p>
+
 
 
 <div align='center'>
