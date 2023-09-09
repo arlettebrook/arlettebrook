@@ -10,7 +10,7 @@
 
 
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="5" cellpadding="0">
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/autoCheck-in'>
