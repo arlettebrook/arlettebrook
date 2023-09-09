@@ -10,34 +10,21 @@
 
 
 
-<div class="image-container">
+<div class="image-container" align="center">
     <a href='https://github.com/arlettebrook/autoCheck-in'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
     </a>
-    <a href='https://github.com/arlettebrook/autoCheck-in'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
-    </a>
-    <!-- 添加更多图片链接 -->
-</div>
-
-
-<div class="image-container">
-    <a href='https://github.com/arlettebrook/autoCheck-in'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
-    </a>
-    <a href='https://github.com/arlettebrook/autoCheck-in'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+    <a href='https://github.com/arlettebrook/tencentVideoSign-in'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in'>
     </a>
     <!-- 添加更多图片链接 -->
-    <a href='https://github.com/arlettebrook/autoCheck-in'>
+    <!-- <a href='https://github.com/arlettebrook/autoCheck-in'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
     </a>
-    <a href='https://github.com/arlettebrook/autoCheck-in'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
-    </a>
+    <a href='https://github.com/arlettebrook/null'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null'>
+    </a> -->
 </div>
-
-
 
 
 
