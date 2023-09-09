@@ -2,11 +2,29 @@
 
 
 
-<img src="icon/GITHey.gif" width="100px"> **Bonjour!** <img src="icon/Olaf.gif" width="100px">  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Arlettebrook/arlettebrook)
-
-
-
 <a href="https://github.com/arlettebrook"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Arlettebrook." alt="Typing SVG" /></a>
+
+
+
+<div align='center'><a href='https://github.com/Arlettebrook/arlettebrook' ><img width="70%" align="center" alt="Github Image" src="icon/git-header.svg" /></a></div>
+
+
+
+
+
+<a href='https://github.com/Arlettebrook/arlettebrook'><img src="icon/GITHey.gif" width="100px"> **Bonjour!** <img src="icon/Olaf.gif" width="100px"></a>  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Arlettebrook/arlettebrook)
+
+
+
+<div align='center'>
+    <b><i>Awesome-github-profiles</i><br/>
+    <i>Config files for my GitHub profile.</i><br>
+    <i>List of GitHub profiles that have awesome customisation, that you can use for inspiration.</i></b>
+</div>
+
+
+
+<a href='https://github.com/Arlettebrook/arlettebrook'><img src='icon/header_.png'></a>
 
 
 
