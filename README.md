@@ -29,6 +29,12 @@
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
     </a>
     <!-- 添加更多图片链接 -->
+    <a href='https://github.com/arlettebrook/autoCheck-in'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+    </a>
+    <a href='https://github.com/arlettebrook/autoCheck-in'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+    </a>
 </div>
 
 
