@@ -25,8 +25,8 @@
             </a>
         </td>
         <td>
-            <a href='https://github.com/arlettebrook/autoCheck-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true'>
+            <a href='https://github.com/arlettebrook/arlettebrook'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true'>
             </a>
         </td>
     </tr>
