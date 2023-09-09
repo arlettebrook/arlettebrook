@@ -18,16 +18,16 @@
             </a>
         </td>
         <td>
-            <a href='https://github.com/arlettebrook/tencentVideoSign-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in'>
+            <a href='https://github.com/arlettebrook/autoCheck-in'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
             </a>
         </td>
     </tr>
     <!-- 添加更多图片链接 -->
     <tr>
         <td>
-            <a href='https://github.com/arlettebrook/autoCheck-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in'>
+            <a href='https://github.com/arlettebrook/tencentVideoSign-in'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in'>
             </a>
         </td>
         <td>
