@@ -6,13 +6,17 @@
 
 
 
-<div align='center'><a href='https://github.com/Arlettebrook/arlettebrook' ><img width="70%" align="center" alt="Github Image" src="icon/git-header.svg" ></a></div>
+<div align='center'><a href='https://github.com/Arlettebrook/arlettebrook' ><img width="70%" alt="Github Image" src="icon/git-header.svg" ></a></div>
+
+
 
 
 
 <p>
     <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/GITHey.gif?raw=true" width="100px"><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/Olaf.gif?raw=true" width="100px"></a><a href='https://github.com/Arlettebrook/arlettebrook'><img src='https://badges.frapsoft.com/os/v2/open-source.svg?v=103'></a><br/>
 </p>
+
+
 
 
 
@@ -30,6 +34,8 @@
 	<a href='https://github.com/arlettebrook'>
         <img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/header_.png?raw=true">  </a><br/>
 </div>
+
+
 
 
 
