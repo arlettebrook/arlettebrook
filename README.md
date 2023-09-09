@@ -20,6 +20,8 @@
     <i>List of GitHub profiles that have awesome customisation, that you can use for inspiration.</i></b>
 </div>
 
+---
+
 
 
 <a href='https://github.com/Arlettebrook/arlettebrook'><img src='icon/header_.png'></a>
