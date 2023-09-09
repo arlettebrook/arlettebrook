@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+[![](assets/Bottom_up.svg)](https://github.com/Arlettebrook/arlettebrook)
 
 <a href="https://github.com/arlettebrook"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Arlettebrook." alt="Typing SVG" /></a>
 
@@ -66,9 +66,9 @@
 
   Would you ike to meet me?
 
-  If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
+  If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda.
 
-> 这里提供了更多关于个人资料的模板，可以自由挑选自己喜欢的元素，加入到自己的profile中。
+> 这里提供了更多关于个人资料的模板，可以自由挑选自己喜欢的元素，加入到自己的profile中。如果觉得有用，感谢给[本项目](https://github.com/Arlettebrook/arlettebrook)一颗心⭐。
 
 <details>
     <summary>More profile templates</summary>
