@@ -46,6 +46,12 @@
 </table>
 
 
+<div align='center'>
+    <a href='https://github.com/arlettebrook/arlettebrook'>
+                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical'>
+            </a>
+</div>
+
 
 
 - 📫 How to reach me: 
