@@ -29,7 +29,7 @@
 
 <div>
 	<a href='https://github.com/arlettebrook'>
-        <img height="220px" src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/header_.png?raw=true">  </a>
+        <img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/header_.png?raw=true">  </a>
 </div>
 
 
@@ -37,8 +37,6 @@
 <p align='center'>
     <a href='https://github.com/Arlettebrook/arlettebrook'><img src="icon/GITHey.gif" width="50px" alt="Olaf" /></a>
 </p>
-
-
 
 
 <p align="center"> 
