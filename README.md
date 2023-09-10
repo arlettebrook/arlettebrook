@@ -46,9 +46,8 @@
 </p>
 
 
-
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=radical'>
+    <img width="400px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=dracula'>
 </div>
 
 
@@ -57,12 +56,12 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/autoCheck-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true&theme=cobalt'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true&theme=synthwave'>
             </a>
         </td>
         <td>
             <a href='https://github.com/arlettebrook/arlettebrook'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true&theme=cobalt'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true&theme=synthwave'>
             </a>
         </td>
     </tr>
@@ -70,12 +69,12 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/tencentVideoSign-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true&theme=cobalt'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true&theme=synthwave'>
             </a>
         </td>
         <td>
             <a href='https://github.com/arlettebrook/null'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null&show_owner=true&theme=cobalt'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null&show_owner=true&theme=synthwave'>
             </a>
         </td>
     </tr>
@@ -85,9 +84,10 @@
 
 <div align='center'>
     <a href='https://github.com/arlettebrook/arlettebrook'>
-                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical&theme=synthwave'>
+                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical&theme=cobalt'>
             </a>
 </div>
+
 
 
 
@@ -101,8 +101,8 @@
 
 <div align='center'>
     <b><i>Awesome-github-profiles</i><br/>
-    <i> If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.</i><br>
-    <i> Would you ike to meet me?</i></br>
+    <i>If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.</i><br>
+    <i>Would you ike to meet me?</i></br>
     <i>If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda.</i>
 </div>
 
