@@ -48,8 +48,14 @@
 
 <div align='center'>
     <a href='https://github.com/arlettebrook/arlettebrook'>
-                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical&theme=cobalt'>
+                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical&theme=panda'>
             </a>
+</div>
+
+
+
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=nord'>
 </div>
 
 
@@ -58,12 +64,12 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/autoCheck-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true&theme=synthwave'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true&theme=buefy'>
             </a>
         </td>
         <td>
             <a href='https://github.com/arlettebrook/arlettebrook'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true&theme=synthwave'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true&theme=buefy'>
             </a>
         </td>
     </tr>
@@ -71,24 +77,16 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/tencentVideoSign-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true&theme=synthwave'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true&theme=buefy'>
             </a>
         </td>
         <td>
             <a href='https://github.com/arlettebrook/null'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null&show_owner=true&theme=synthwave'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=null&show_owner=true&theme=buefy'>
             </a>
         </td>
     </tr>
 </table>
-
-
-
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=dracula'>
-</div>
-
-
 
 
 
