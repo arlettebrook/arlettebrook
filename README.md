@@ -17,8 +17,8 @@
 
 
 <div align='center'>
-    <b><i>Awesome-github-profiles</i><br/>
-    <i>Config files for your GitHub profile.</i><br>
+    <b><i>Awesome-github-profiles</i><br/><br/>
+    <i>Config files for your GitHub profile.</i><br><br/>
     <i>List of GitHub profiles that have awesome customisation, that you can use for inspiration.</i></b>
 </div>
 
@@ -34,7 +34,7 @@
 
 
 <p align='center'>
-    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="icon/GITHey.gif" width="60px" alt="Olaf" /></a>
+    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="icon/GITHey.gif" width="50px" alt="Olaf" /></a>
 </p>
 
 
@@ -47,7 +47,9 @@
 
 
 <div align='center'>
-    <img width="400px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=dracula'>
+    <a href='https://github.com/arlettebrook/arlettebrook'>
+                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical&theme=cobalt'>
+            </a>
 </div>
 
 
@@ -83,32 +85,30 @@
 
 
 <div align='center'>
-    <a href='https://github.com/arlettebrook/arlettebrook'>
-                <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Arlettebrook&layout=donut-vertical&theme=cobalt'>
-            </a>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=dracula'>
 </div>
 
 
 
 
 
-- 📫 How to reach me: 
-  * Email: arlettebrook@foxmail.com
+- 📫 **How to reach me:** 
+  * **Email: arlettebrook@foxmail.com**
 
 ---
 
 
 
 <div align='center'>
-    <b><i>Awesome-github-profiles</i><br/>
+    <b><i>Awesome-github-profiles</i><br/><br/>
     <i>If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.</i><br>
-    <i>Would you ike to meet me?</i></br>
-    <i>If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda.</i>
+    <i>Would you ike to meet me?</i></br><br/>
+    <i>If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda.</i></b><br/>
 </div>
 
   
 
-> 这里有更多关于个人资料的模板，可以自由挑选自己喜欢的元素，加入到自己的profile中。如果觉得有用，感谢给[本仓库](https://github.com/Arlettebrook/arlettebrook)一颗心⭐。
+> <a href='https://github.com/Arlettebrook/arlettebrook'><img src="README.assets/Minion.gif" width="50px" alt="Olaf" /></a>**这里有更多关于个人资料的模板，可以自由挑选自己喜欢的元素，加入到自己的profile中。如果觉得有用，感谢给[本仓库](https://github.com/Arlettebrook/arlettebrook)一颗心⭐。**
 
 
 
