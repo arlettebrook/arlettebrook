@@ -18,9 +18,10 @@
 
 <div align='center'>
     <b><i>Awesome-github-profiles</i><br/>
-    <i>Config files for my GitHub profile.</i><br>
+    <i>Config files for your GitHub profile.</i><br>
     <i>List of GitHub profiles that have awesome customisation, that you can use for inspiration.</i></b>
 </div>
+
 
 ---
 
@@ -32,10 +33,10 @@
 </div>
 
 
-
-<p>
-    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/coder.gif?raw=true" width="100px" alt="Olaf" /></a>
+<p align='center'>
+    <a href='https://github.com/Arlettebrook/arlettebrook'><img src="icon/GITHey.gif" width="60px" alt="Olaf" /></a>
 </p>
+
 
 
 
