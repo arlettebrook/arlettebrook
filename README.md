@@ -29,8 +29,9 @@
 
 <div>
 	<a href='https://github.com/arlettebrook'>
-        <img src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/header_.png?raw=true">  </a>
+        <img height="220px" src="https://github.com/Arlettebrook/arlettebrook/blob/main/icon/header_.png?raw=true">  </a>
 </div>
+
 
 
 <p align='center'>
