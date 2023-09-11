@@ -41,8 +41,9 @@
 
 <p align="center"> 
     <a href='https://github.com/arlettebrook'>
-        <img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">  </a>
+        <img src="httpS://github-readme-stats.vercel.app/api?username=arlettebrook&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">  </a>
 </p>
+
 
 
 <div align='center'>
@@ -52,10 +53,10 @@
 </div>
 
 
-
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=nord'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arlettebrook&langs_count=6&layout=compact&theme=nord&PAT_1'>
 </div>
+
 
 
 
