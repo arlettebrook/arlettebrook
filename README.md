@@ -93,7 +93,7 @@
 
 
 - 📫 **How to reach me:** 
-  * **Email: arlettebrook@foxmail.com**
+  * **Email: arlettebrook@proton.me**
 
 ---
 
