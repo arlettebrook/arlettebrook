@@ -113,9 +113,11 @@
 
 
 <details>
-    <summary>More profile templates</summary>
+    <summary>More profile templates and api</summary>
     <p align='center'>
-        <b><a href='./profileTemples.md'>More profile Temples</a></b>
+        <b><a href='./profileTemplates.md'>More profile Templates</a></b><br/>
+        <b><a href='https://github.com/rzashakeri/beautify-github-profile'>rzashakeri/beautify-github-profile</a></b><br/>
+        <b><a href='https://github.com/abhisheknaiidu/awesome-github-profile-readme'>abhisheknaiidu/awesome-github-profile-readme</a></b><br/>
     </p>
     <!-- DO NOT EDIT THIS SECTION -->
 	<!-- START_SECTION:data-section -->
