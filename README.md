@@ -114,9 +114,11 @@
 
 <details>
     <summary>More profile templates</summary>
+    <p align='center'>
+        <b><a href='./profileTemples.md'>More profile Temples</a></b>
+    </p>
     <!-- DO NOT EDIT THIS SECTION -->
 	<!-- START_SECTION:data-section -->
-<a href='./profileTemples.md'>profileTemples</a>
 
 </details>
 
