@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Auto Hide Sidebar",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"JsFormat",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Minify",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarHider",
+		"SublimeLinter",
+		"Theme - Afterglow",
+		"Theme - Brogrammer",
+		"Theme - SoDaReloaded",
+		"Transparency",
+		"Vue Syntax Highlight",
+		"WakaTime",
+	],
+}
