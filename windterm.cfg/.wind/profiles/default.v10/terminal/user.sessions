@@ -17,7 +17,7 @@
         "session.uuid" : "d067f501-cd22-49b9-8527-7ca786222a34"
     },
     {
-        "session.autoLogin" : "TKT6+iNdSsOHTW5IdmA2qiB4b5NK1MOpgYMsi1wQOqTD/nNWyMKLxOtqBbaoAZhhwzgTJ7a3y/h3gRae7mgML8DrePIaBxWVw+ZBA2ssJ+3lo+fEzQeIGQ0SwpFDv5dGSkIwPp4wpKmV1yK/M24GqeP1FyjC/GnvwbHfY6Cl8xHVP6Qtvoed2+33YtzkhNE/JsDUKouckhuO6X/N3p8lDJwyAVYHP20y3ivOH6nKxHvLiAS9FFBt0HW0sHgF03gO",
+        "session.autoLogin" : "TKT6+iNdSsOHTW5IdmA2qrKk51dQFuryCy2rwVyoFUMHaPannfyunSdlu6b+L1TrXHcyZEF3zCocA5sCVAR7Sk+a9L/fQ7Cj1Jdw1voYGUD+R5km2z3zsiYpAoSPrUr5PkU0oXCqCI7GCMZUxXscBWDHR8rPmJ9RYws5EfkbErDmikyBxOx8N3sIql24Ah8Ac8Ok/ry82X40UG818e7i47q9G3BhhmB4Bx4UhJbmLBEPIZ29jIWZ5bvNoEIdoxr6VhPk9/oTXfQM53RbTqailg==",
         "session.group" : "Centos7-Minimal-localhost",
         "session.icon" : "session::square-dodgerblue",
         "session.label" : "Minimal-localhost",
@@ -35,18 +35,6 @@
         "session.protocol" : "SSH",
         "session.target" : "192.168.245.131",
         "session.uuid" : "357dbb66-bc25-4cd9-8d2e-cf424d784dc3"
-    },
-    {
-        "process.arguments" : "C:/WINDOWS/system32/cmd.exe  /s /k \"$(AppDir)/vendors/clink/clink_x64.exe\" inject",
-        "process.workingDirectory" : "$(HomeDir)",
-        "session.group" : "admin:cmd",
-        "session.icon" : "session::cmd",
-        "session.label" : "admin:cmd",
-        "session.protocol" : "Shell",
-        "session.system" : "cmd",
-        "session.target" : "$(AppDir)/vendors/gsudo/gsudo.exe",
-        "session.uuid" : "e8f967e2-08b8-4d2c-b485-dd687e736f4f",
-        "window.caretStyle" : "blinking line"
     },
     {
         "process.arguments" : "/s /k \"${AppDir}/vendors/clink/clink_x64.exe\" inject",
@@ -644,6 +632,30 @@
         "session.system" : "linux",
         "session.target" : "d:/Program Files/Git/bin/bash.exe",
         "session.uuid" : "619e7c08-c2e6-4f60-9727-01bb50cddfdf",
+        "window.caretStyle" : "blinking line"
+    },
+    {
+        "process.arguments" : "--login -i",
+        "process.workingDirectory" : "${HomeDir}",
+        "session.group" : "bash-cmd",
+        "session.icon" : "session::gitbash",
+        "session.label" : "gitbash",
+        "session.protocol" : "Shell",
+        "session.system" : "linux",
+        "session.target" : "d:/Program Files/Git/bin/bash.exe",
+        "session.uuid" : "dc44d088-5177-4a96-87d5-68c5bf5bdf6a",
+        "window.caretStyle" : "blinking line"
+    },
+    {
+        "process.arguments" : "C:/WINDOWS/system32/cmd.exe  /s /k \"${AppDir}/vendors/clink/clink_x64.exe\" inject",
+        "process.workingDirectory" : "${HomeDir}",
+        "session.group" : "bash-cmd",
+        "session.icon" : "session::cmd",
+        "session.label" : "admin:cmd",
+        "session.protocol" : "Shell",
+        "session.system" : "cmd",
+        "session.target" : "${AppDir}/vendors/gsudo/gsudo.exe",
+        "session.uuid" : "b10b0ece-6131-4103-ab80-cdda721f8609",
         "window.caretStyle" : "blinking line"
     }
 ]
