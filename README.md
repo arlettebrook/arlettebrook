@@ -69,20 +69,20 @@
     <tr>
         <td>
             <a href='https://github.com/arlettebrook/arlettebrook'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true&theme=buefy&PAT_1'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true&theme=buefy&PAT_1'>
             </a>
         </td>
         <td>
-            <a href='https://github.com/arlettebrook/my-blog'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true&theme=buefy&PAT_1'>
+            <a href='https://github.com/arlettebrook/autoCheck-in'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true&theme=buefy&PAT_1'>
             </a>
         </td>
     </tr>
     <!-- 添加更多图片链接 -->
     <tr>
         <td>
-            <a href='https://github.com/arlettebrook/autoCheck-in'>
-                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true&theme=buefy&PAT_1'>
+            <a href='https://github.com/arlettebrook/arlettebrook.github.io'>
+                <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook.github.io&show_owner=true&theme=buefy&PAT_1'>
             </a>
         </td>
         <td>
@@ -92,6 +92,7 @@
         </td>
     </tr>
 </table>
+
 
 
 
