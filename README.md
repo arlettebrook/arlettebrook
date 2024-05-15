@@ -39,6 +39,10 @@
 </p>
 
 
+[![Stats](https://raw.githubusercontent.com/arlettebrook/arlettebrook/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+
+
 <p align="center"> 
     <a href='https://github.com/arlettebrook'>
         <img src="https://github-readme-stats.vercel.app/api?username=arlettebrook&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&PAT_1">  </a>
@@ -64,12 +68,12 @@
 <table align="center" border="0" cellspacing="5" cellpadding="0">
     <tr>
         <td>
-            <a href='https://github.com/arlettebrook/autoCheck-in'>
+            <a href='https://github.com/arlettebrook/arlettebrook'>
                 <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=autoCheck-in&show_owner=true&theme=buefy&PAT_1'>
             </a>
         </td>
         <td>
-            <a href='https://github.com/arlettebrook/arlettebrook'>
+            <a href='https://github.com/arlettebrook/my-blog'>
                 <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=arlettebrook&show_owner=true&theme=buefy&PAT_1'>
             </a>
         </td>
@@ -77,7 +81,7 @@
     <!-- 添加更多图片链接 -->
     <tr>
         <td>
-            <a href='https://github.com/arlettebrook/tencentVideoSign-in'>
+            <a href='https://github.com/arlettebrook/autoCheck-in'>
                 <img src='https://github-readme-stats.vercel.app/api/pin/?username=arlettebrook&repo=tencentVideoSign-in&show_owner=true&theme=buefy&PAT_1'>
             </a>
         </td>
@@ -88,6 +92,7 @@
         </td>
     </tr>
 </table>
+
 
 
 
