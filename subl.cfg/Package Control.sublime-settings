@@ -16,6 +16,7 @@
 		"Git",
 		"GitGutter",
 		"JsFormat",
+		"LiveReload",
 		"MarkdownEditing",
 		"MarkdownPreview",
 		"Minify",

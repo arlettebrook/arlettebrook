@@ -1,0 +1,11 @@
+{
+	"ignored_packages":
+	[
+	],
+	"font_size": 16,
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"theme": "Adaptive.sublime-theme",
+	"hot_exit":false,
+	"remember_open_files":false,
+	"index_files": true,
+}
