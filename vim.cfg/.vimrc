@@ -132,9 +132,41 @@ call plug#end()
 """"""插件vim-plug结束""""""
 
 
+""""""配色方案""""""
+
 " material theme settings
 "let g:material_theme_style = 'darker-community'
 colorscheme material
 
 "colorscheme deus
+
+""""""配色方案结束""""""
+
+
+""""""快捷键""""""
+
+" ctrl-k：删除光标后面的字符，部分版本不支持
+nnoremap <C-k> D
+inoremap <C-k> <Esc>lC
+vnoremap <C-k> d
+" 定义删除光标后所有字符的函数
+function! DeleteAfterCursor()
+    " 获取当前光标在命令行中的位置
+    let current_pos = getcmdpos()
+    " 获取当前命令行的内容
+    let cmdline = getcmdline()
+    " 截取字符串，获取光标前的部分
+    let new_cmdline = strpart(cmdline, 0, current_pos - 1)
+    " 设置新的命令行内容，只保留光标前的部分，去掉光标位置及其后的所有字符
+    call setcmdline(new_cmdline)
+    return ''
+endfunction
+
+" 在命令行模式下映射 <C-k> 为删除光标后的所有字符
+" 用表达式寄存器调用删除函数，最后回车
+cnoremap <C-k> <C-r>=DeleteAfterCursor()<CR>
+
+
+""""""快捷键结束""""""
+
 
