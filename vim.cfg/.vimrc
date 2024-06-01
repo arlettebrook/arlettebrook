@@ -149,6 +149,7 @@ colorscheme material
 nnoremap <C-k> D
 inoremap <C-k> <Esc>lC
 vnoremap <C-k> d
+
 " 定义删除光标后所有字符的函数
 function! DeleteAfterCursor()
     " 获取当前光标在命令行中的位置
@@ -166,6 +167,12 @@ endfunction
 " 用表达式寄存器调用删除函数，最后回车
 cnoremap <C-k> <C-r>=DeleteAfterCursor()<CR>
 
+" 配置复制、粘贴、剪切
+vnoremap <C-c> "*y
+inoremap <C-v> <C-r>*
+cnoremap <C-v> <C-r>*
+vnoremap <C-v> "*p
+vnoremap <C-x> "*d
 
 """"""快捷键结束""""""
 
