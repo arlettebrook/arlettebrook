@@ -1,44 +1,3 @@
-" Vim with all enhancements
-source $VIMRUNTIME/vimrc_example.vim
-
-" Use the internal diff if available.
-" Otherwise use the special 'diffexpr' for Windows.
-if &diffopt !~# 'internal'
-  set diffexpr=MyDiff()
-endif
-function MyDiff()
-  let opt = '-a --binary '
-  if &diffopt =~ 'icase' | let opt = opt . '-i ' | endif
-  if &diffopt =~ 'iwhite' | let opt = opt . '-b ' | endif
-  let arg1 = v:fname_in
-  if arg1 =~ ' ' | let arg1 = '"' . arg1 . '"' | endif
-  let arg1 = substitute(arg1, '!', '\!', 'g')
-  let arg2 = v:fname_new
-  if arg2 =~ ' ' | let arg2 = '"' . arg2 . '"' | endif
-  let arg2 = substitute(arg2, '!', '\!', 'g')
-  let arg3 = v:fname_out
-  if arg3 =~ ' ' | let arg3 = '"' . arg3 . '"' | endif
-  let arg3 = substitute(arg3, '!', '\!', 'g')
-  if $VIMRUNTIME =~ ' '
-    if &sh =~ '\<cmd'
-      if empty(&shellxquote)
-        let l:shxq_sav = ''
-        set shellxquote&
-      endif
-      let cmd = '"' . $VIMRUNTIME . '\diff"'
-    else
-      let cmd = substitute($VIMRUNTIME, ' ', '" ', '') . '\diff"'
-    endif
-  else
-    let cmd = $VIMRUNTIME . '\diff'
-  endif
-  let cmd = substitute(cmd, '!', '\!', 'g')
-  silent execute '!' . cmd . ' ' . opt . arg1 . ' ' . arg2 . ' > ' . arg3
-  if exists('l:shxq_sav')
-    let &shellxquote=l:shxq_sav
-  endif
-endfunction
-
 """"""基本设置""""""
 filetype on "开启文件类型侦测
 filetype indent on  "适应不同语言的缩进
@@ -47,19 +6,19 @@ syntax on   "允许使用用户配色
 
 """"""显示设置""""""
 set shortmess=atI         "不显示启动提示信息
-set laststatus=2          "总是显示状态栏,命令行（在状态行下）的高度，默认为1，这里是2
-" 我的状态行显示的内容（包括文件类型和解码）
+set laststatus=2          "总是显示状态栏,命令行（在状态行下）的高度，默认为1，这里是2。
+" 我的状态行显示的内容（包括文件类型和解码）后续用插件美化。
 "set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ %{strftime(\"%d/%m/%y\ -\ %H:%M\")}
 "set statusline=[%F]%y%r%m%*%=[Line:%l/%L,Column:%c][%p%%]
 "set cmdheight=2         " 命令行（在状态行下）的高度，默认为1，这里是2
 set ruler                 "显示光标位置
 set number                "显示行号
-set cursorline            "高亮显示当前行
-set cursorcolumn            "高亮显示当前列
+"set cursorline            "高亮显示当前行
+"set cursorcolumn            "高亮显示当前列
 set hlsearch                " 高亮搜索结果
 set incsearch               "边输边高亮
 set ignorecase              "搜索时忽略大小写
-set smartcase
+set smartcase				" 智能大小写匹配
 
 "set relativenumber     "其他行显示相对行号
 set scrolloff=5     "垂直滚动时光标距底部位置
@@ -88,20 +47,33 @@ set autoread        "文件改动时自动载入
 set t_Co=256        "terminal Color 支持256色(默认是8色)
 hi comment ctermfg=6 "设置注释颜色
 set magic                   " 设置魔术
-set guioptions-=T           " 隐藏工具栏
-set guioptions-=m           " 隐藏菜单栏
+set guioptions-=T           " 隐藏gui工具栏
+set guioptions-=m           " 隐藏gui菜单栏
+set guioptions-=r           " 删去gui滚动条"
+" 使用更友好的颜色方案
+"colorscheme desert
+" 设置背景色
+set background=dark
+" 显示命令输入
+set showcmd
 
-
-
+"设置gui字体
 set guifont=Courier\ New:h20
 
-set lines=15 columns=50 
+" 设置宽高
+"set lines=15 columns=50 
+
+" 启用真彩色颜色支持，让配色方案显示更好。
+set termguicolors
 
 
 
-""""""插件""""""
+""""""插件vim-plug""""""
 
-""""""vim-plug""""""
+" 初始化 vim-plug
+" Linux上默认
+" call plug#begin()
+" windows上自定义插件安装位置
 call plug#begin('$VIM/vimfiles/plugged')
 " The default plugin directory will be as follows:
 "   - Vim (Linux/macOS): '~/.vim/plugged'
@@ -111,35 +83,58 @@ call plug#begin('$VIM/vimfiles/plugged')
 "   - e.g. `call plug#begin('~/.vim/plugged')`
 "   - Avoid using standard Vim directory names like 'plugin'
 
+" 添加插件列表,确保使用的是单引号。
+
+" 一组默认配置-每个人都同样的配置
+Plug 'tpope/vim-sensible'
+
 Plug 'wakatime/vim-wakatime'
 
-"颜色主题
-"Plug 'morhetz/gruvbox'
-Plug 'Arlettebrook/seoul256.vim'
+" 轻量级状态栏插件。
+Plug 'itchyny/lightline.vim'
 
-"状态栏主题
-Plug 'Arlettebrook/lightline.vim'
+" Highlight copied text
+Plug 'machakann/vim-highlightedyank'
 
-"
-Plug 'Arlettebrook/nerdtree'
+" 支持多种编程语言的语法高亮。
+Plug 'sheerun/vim-polyglot'
 
-"自动补全
-Plug 'Arlettebrook/auto-pairs'
+" 文件系统浏览器，提供树状目录视图。
+Plug 'preservim/nerdtree'
+
+" 成对添加、删除、高亮括号。 
+Plug 'jiangmiao/auto-pairs'
+
+" 黑色主题
+Plug 'ajmwagar/vim-deus'
+
+" 终端透明
+Plug 'tribela/vim-transparent'
+
+" 类似jetbrains主题
+Plug 'kaicataldo/material.vim', { 'branch': 'main'  }
+
+" 成对修改括号类字符：命令cs"'
+Plug 'tpope/vim-surround'
+
+" 快速注释：命令gcc
+Plug 'tpope/vim-commentary'
 
 
-" Initialize plugin system
-" - Automatically executes `filetype plugin indent on` and `syntax enable`.
+" Call plug#end to update &runtimepath and initialize the plugin system.
+" - It automatically executes `filetype plugin indent on` and `syntax enable`
+" 结束插件配置
 call plug#end()
 " You can revert the settings after the call like so:
 "   filetype indent off   " Disable file-type-specific indentation
 "   syntax off            " Disable syntax highlighting
 
+""""""插件vim-plug结束""""""
 
-"autocmd vimenter * ++nested colorscheme gruvbox
-"set background=dark    " Setting dark mode
 
-let g:seoul256_background = 235
-colo seoul256
+" material theme settings
+"let g:material_theme_style = 'darker-community'
+colorscheme material
 
-" Start NERDTree and leave the cursor in it.
-"autocmd VimEnter * NERDTree
+"colorscheme deus
+
