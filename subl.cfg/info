@@ -1,2 +1,4 @@
 sublime安装的插件，以及基本设置
 sublime的配置文件在这个目录下： C:\Users\Lenovo\AppData\Roaming\Sublime Text\Packages\User
+如何进入：找到Package Settings-->Package Control-->Settins
+进入之后右键标题打开文件（ctrl-o）。复制路径，在资源管理器中打开。
