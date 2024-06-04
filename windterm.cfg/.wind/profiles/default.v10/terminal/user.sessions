@@ -17,6 +17,7 @@
         "session.uuid" : "d067f501-cd22-49b9-8527-7ca786222a34"
     },
     {
+        "filer.autoSyncTerminalFolder" : true,
         "session.autoLogin" : "TKT6+iNdSsOHTW5IdmA2qrKk51dQFuryCy2rwVyoFUMHaPannfyunSdlu6b+L1TrXHcyZEF3zCocA5sCVAR7Sk+a9L/fQ7Cj1Jdw1voYGUD+R5km2z3zsiYpAoSPrUr5PkU0oXCqCI7GCMZUxXscBWDHR8rPmJ9RYws5EfkbErDmikyBxOx8N3sIql24Ah8Ac8Ok/ry82X40UG818e7i47q9G3BhhmB4Bx4UhJbmLBEPIZ29jIWZ5bvNoEIdoxr6VhPk9/oTXfQM53RbTqailg==",
         "session.group" : "Centos7-Minimal-localhost",
         "session.icon" : "session::square-dodgerblue",
@@ -636,7 +637,9 @@
     },
     {
         "process.arguments" : "--login -i",
+        "process.locale" : "Automatic",
         "process.workingDirectory" : "${HomeDir}",
+        "session.autoExecutionDelay" : 0,
         "session.group" : "bash-cmd",
         "session.icon" : "session::gitbash",
         "session.label" : "gitbash",
@@ -644,6 +647,7 @@
         "session.system" : "linux",
         "session.target" : "d:/Program Files/Git/bin/bash.exe",
         "session.uuid" : "dc44d088-5177-4a96-87d5-68c5bf5bdf6a",
+        "shell.sysmon" : false,
         "window.caretStyle" : "blinking line"
     },
     {
@@ -656,6 +660,7 @@
         "session.system" : "cmd",
         "session.target" : "${AppDir}/vendors/gsudo/gsudo.exe",
         "session.uuid" : "b10b0ece-6131-4103-ab80-cdda721f8609",
+        "shell.sysmon" : false,
         "window.caretStyle" : "blinking line"
     }
 ]
