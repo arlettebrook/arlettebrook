@@ -32,10 +32,24 @@
 
 
 
+www.visa.cn#visa中国优选
+mfa.gov.ua#乌克兰外交部
+www.shopify.com#Shopify官方优选
+store.ubi.com#Ubisoft
+staticdelivery.nexusmods.com#NexusMods
+
 
 
 
 
 cf.090227.xyz#CM
-cmcc.090227.xyz#CMCC
-xn--ktff-jt6hr36l.tencentapp.cn#KTFF
+ktff.tencentapp.cn#KTFF
+cloudflare-dl.byoip.top#FISHCPY
+cf.877774.xyz#QMS
+saas.sin.fan#MIYU
+bestcf.030101.xyz#MINGYU
+cf.cloudflare.182682.xyz#wWETEST.VIP
+
+
+
+https://cf.090227.xyz/cmcc-ipv6
