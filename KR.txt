@@ -48,8 +48,9 @@ cloudflare-dl.byoip.top#FISHCPY
 cf.877774.xyz#QMS
 saas.sin.fan#MIYU
 bestcf.030101.xyz#MINGYU
-cf.cloudflare.182682.xyz#wWETEST.VIP
+cf.cloudflare.182682.xyz#WETEST.VIP
 
 
 
 https://cf.090227.xyz/cmcc-ipv6
+https://ipdb.api.030101.xyz/?type=bestcf&country=true
