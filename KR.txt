@@ -51,6 +51,7 @@ bestcf.030101.xyz#MINGYU
 cf.cloudflare.182682.xyz#WETEST.VIP
 
 freeyx.cloudflare88.eu.org#XUESHAN
+1760608758.tencentapp.cn#FCLOUD
 188.42.145.253:2096#US
 185.39.207.121#GR
 185.39.207.121#GREEFS
