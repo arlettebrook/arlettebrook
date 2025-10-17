@@ -32,9 +32,9 @@
 
 
 
-www.visa.cn#visa优选
-mfa.gov.ua#乌克兰外交部
-www.shopify.com#Shopify官方优选
+www.visa.cn#Visa
+mfa.gov.ua#Ukraine
+www.shopify.com#Shopify
 store.ubi.com#Ubisoft
 staticdelivery.nexusmods.com#NexusMods
 
