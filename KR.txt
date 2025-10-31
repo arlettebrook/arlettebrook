@@ -53,6 +53,9 @@ cf.cloudflare.182682.xyz#WETEST.VIP
 freeyx.cloudflare88.eu.org#FREEYX
 nan.tencentapp.cn#NAN
 yapuyapu.com#YAPU
+cdns.doon.eu.org#DOON
+nrt.xxxxxxxx.nyc.mn#NRT
+cloudflare-dl.cnae.top#CNAE
 
 
 
