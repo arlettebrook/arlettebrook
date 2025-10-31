@@ -50,8 +50,14 @@ saas.sin.fan#MIYU
 bestcf.030101.xyz#MINGYU
 cf.cloudflare.182682.xyz#WETEST.VIP
 
-freeyx.cloudflare88.eu.org#XUESHAN
-nan.tencentapp.cn#FCLOUD
+freeyx.cloudflare88.eu.org#FREEYX
+nan.tencentapp.cn#NAN
+yapuyapu.com#YAPU
+
+
+
+
+
 188.42.145.253:2096#US
 198.62.62.4#OTHER
 
