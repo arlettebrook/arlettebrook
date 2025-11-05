@@ -49,7 +49,7 @@ cf.877774.xyz#QMS
 saas.sin.fan#MIYU
 bestcf.030101.xyz#MINGYU
 cf.cloudflare.182682.xyz#WETEST.VIP
-
+cloudflare.182682.xyz#CF
 freeyx.cloudflare88.eu.org#FREEYX
 nan.tencentapp.cn#NAN
 yapuyapu.com#YAPU
