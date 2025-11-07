@@ -49,14 +49,14 @@ cf.877774.xyz#QMS
 saas.sin.fan#MIYU
 bestcf.030101.xyz#MINGYU
 cf.cloudflare.182682.xyz#WETEST.VIP
-cloudflare.182682.xyz#CF
+cfyx.aliyun.20237737.xyz#ALIYUN
 freeyx.cloudflare88.eu.org#FREEYX
 nan.tencentapp.cn#NAN
 yapuyapu.com#YAPU
 cdns.doon.eu.org#DOON
 nrt.xxxxxxxx.nyc.mn#NRT
 cloudflare-dl.cnae.top#CNAE
-
+b3.cfyx.20237737.xyz#CFYX
 
 
 
