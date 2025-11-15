@@ -35,17 +35,17 @@
 www.visa.cn#Visa
 mfa.gov.ua#SG-Ukraine
 www.shopify.com#Shopify
-store.ubi.com#Ubisoft
+store.ubi.com#SG-Ubisoft
 staticdelivery.nexusmods.com#NexusMods
 
 
 
 
 
-cf.090227.xyz#CM
+cf.090227.xyz#SG-CM
 ktff.tencentapp.cn#KTFF
 cloudflare-dl.byoip.top#FISHCPY
-cf.877774.xyz#QMS
+cf.877774.xyz#HK-QMS
 saas.sin.fan#JP-MIYU
 bestcf.030101.xyz#MINGYU
 cf.cloudflare.182682.xyz#WETEST.VIP
@@ -53,13 +53,14 @@ cfyx.aliyun.20237737.xyz#ALIYUN
 freeyx.cloudflare88.eu.org#FREEYX
 nan.tencentapp.cn#NAN
 yapuyapu.com#YAPU
-cdns.doon.eu.org#DOON
+cdns.doon.eu.org#JP-DOON
 nrt.xxxxxxxx.nyc.mn#NRT
 cloudflare-dl.cnae.top#CNAE
 b3.cfyx.20237737.xyz#CFYX
-
-
-
+cf.130519.xyz#KR-CF
+cf.008500.xyz#HK-CF
+sub.danfeng.eu.org#TW-DANFENG
+cf.zhetengsha.eu.org#HK-ZHETENGSHA
 
 188.42.145.253:2096#US
 198.62.62.4#OTHER
