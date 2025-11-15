@@ -33,7 +33,7 @@
 
 
 www.visa.cn#Visa
-mfa.gov.ua#Ukraine
+mfa.gov.ua#SG-Ukraine
 www.shopify.com#Shopify
 store.ubi.com#Ubisoft
 staticdelivery.nexusmods.com#NexusMods
@@ -46,7 +46,7 @@ cf.090227.xyz#CM
 ktff.tencentapp.cn#KTFF
 cloudflare-dl.byoip.top#FISHCPY
 cf.877774.xyz#QMS
-saas.sin.fan#MIYU
+saas.sin.fan#JP-MIYU
 bestcf.030101.xyz#MINGYU
 cf.cloudflare.182682.xyz#WETEST.VIP
 cfyx.aliyun.20237737.xyz#ALIYUN
