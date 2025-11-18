@@ -51,7 +51,6 @@ bestcf.030101.xyz#MINGYU
 cf.cloudflare.182682.xyz#WETEST.VIP
 cfyx.aliyun.20237737.xyz#ALIYUN
 freeyx.cloudflare88.eu.org#FREEYX
-nan.tencentapp.cn#NAN
 yapuyapu.com#YAPU
 cdns.doon.eu.org#JP-DOON
 nrt.xxxxxxxx.nyc.mn#NRT
