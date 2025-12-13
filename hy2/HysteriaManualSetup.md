@@ -105,6 +105,15 @@ WantedBy=multi-user.target
 查看日志
 ```journalctl -u hy2 -f```
 
+
+---
+
+导入代理软件格式：
+```shell
+hy2://password@ip:port/?insecure=1&sni=www.bing.com#节点名称
+```
+请将```password``` ```ip``` ```port```替换成你的。
+
 ---
 
 
@@ -114,3 +123,4 @@ curl -o hysteria.sh -fsSL https://raw.githubusercontent.com/MEILOI/HYTWOALPINE/m
 ```
 
 ---
+
