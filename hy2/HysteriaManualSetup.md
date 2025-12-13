@@ -11,7 +11,7 @@
 [https://github.com/apernet/hysteria/releases/latest](https://github.com/apernet/hysteria/releases/latest)
 
 ```shell
-wget -O hy2 https://github.com/apernet/hysteria/releases/download/app%2Fv2.6.5/hysteria-linux-amd64
+wget -O hy2 url
 ```
 
 ```chmod +x hy2```
