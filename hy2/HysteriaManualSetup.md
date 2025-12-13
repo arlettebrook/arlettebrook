@@ -106,3 +106,11 @@ WantedBy=multi-user.target
 ```journalctl -u hy2 -f```
 
 ---
+
+
+非root用户，使用一键脚本（使用nohup守护进程）
+```shell
+curl -o hysteria.sh -fsSL https://raw.githubusercontent.com/MEILOI/HYTWOALPINE/main/hysteria.sh && chmod +x hysteria.sh && ./hysteria.sh
+```
+
+---
