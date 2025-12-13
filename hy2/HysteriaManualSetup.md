@@ -51,6 +51,13 @@ masquerade:
     rewriteHost: true
 ```
 
+---
+
+生成自签证书
+
+```openssl ecparam -genkey -name prime256v1 -out /root/hy2/private.key```
+
+```openssl req -new -x509 -days 36500 -key /root/hy2/private.key -out /root/hy2/cert.crt -subj "/CN=www.bing.com"```
 
 ---
 
@@ -75,6 +82,27 @@ NoNewPrivileges=true
 WantedBy=multi-user.target
 ```
 
+重新加载systemd配置：```systemctl daemon-reload```
+
 ---
 
+设置开机自启
+```systemctl enable hy2```
 
+启动Hysteria2
+```systemctl start hy2```
+
+重启Hysteria2
+```systemctl restart hy2```
+
+查看Hysteria2状态
+```systemctl status hy2```
+
+停止Hysteria2
+```systemctl stop hy2```
+
+
+查看日志
+```journalctl -u hy2 -f```
+
+---
