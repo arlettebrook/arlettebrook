@@ -116,19 +116,38 @@ WantedBy=multi-user.target
 
 
 OpenRC：放到 `/etc/init.d/hy2`
+
+`vi /etc/init.d/hy2`
 ```
-vi /etc/init.d/hy2
+#!/sbin/openrc-run
 
-chmod +x /etc/init.d/hy2
+name="hy2"
+description="Hysteria2 server"
 
-rc-update add hy2 default
+command="/root/hy2/hy2"
+command_args="server --config /root/hy2/hy2.yaml"
+command_background=true
+pidfile="/run/${RC_SVCNAME}.pid"
+directory="/root/hy2"
 
-rc-service hy2 status
-
-rc-service hy2 start
-
-rc-service hy2 restart
+depend() {
+    need net
+}
 ```
+
+`chmod +x /etc/init.d/hy2`
+
+
+开机自启：`rc-update add hy2 default`
+
+`rc-service hy2 status`
+
+`rc-service hy2 start`
+
+`rc-service hy2 restart`
+
+
+> 推荐优先使用systemd
 
 
 
