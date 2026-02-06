@@ -61,6 +61,8 @@ masquerade:
 
 ---
 
+systemd：放到 `/etc/systemd/system/hy2.service`
+
 hy2守护进程配置文件：```vim /etc/systemd/system/hy2.service```
 ```shell
 [Unit]
@@ -108,6 +110,26 @@ WantedBy=multi-user.target
 
 查看日志
 ```journalctl -u hy2 -f```
+
+
+---
+
+
+OpenRC：放到 `/etc/init.d/hy2`
+```
+vi /etc/init.d/hy2
+
+chmod +x /etc/init.d/hy2
+
+rc-update add hy2 default
+
+rc-service hy2 status
+
+rc-service hy2 start
+
+rc-service hy2 restart
+```
+
 
 
 ---
