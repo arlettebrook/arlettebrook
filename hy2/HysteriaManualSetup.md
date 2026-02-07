@@ -126,9 +126,11 @@ description="Hysteria2 server"
 
 command="/root/hy2/hy2"
 command_args="server --config /root/hy2/hy2.yaml"
-command_background=true
-pidfile="/run/${RC_SVCNAME}.pid"
 directory="/root/hy2"
+
+supervisor=supervise-daemon
+respawn_delay=5
+respawn_max=0
 
 depend() {
     need net
