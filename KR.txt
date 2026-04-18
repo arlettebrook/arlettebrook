@@ -11,6 +11,7 @@ mfa.gov.ua#SG-Ukraine
 www.shopify.com#Shopify
 store.ubi.com#SG-Ubisoft
 staticdelivery.nexusmods.com#NexusMods
+openai.com#Openai
 
 
 
