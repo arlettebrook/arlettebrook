@@ -16,6 +16,19 @@ openai.com#Openai
 
 
 
+cdn.7zz.cn#7ZZ
+cf.godns.cc#GODNS
+www.jimdo.com#JIMDO
+www.cdzxdz.com#CDZXDZ
+www.mfyx.cn#MFYX
+cf.zhetengsha.eu.org#ZHETENGSHA
+ys2046.cv#YS2046
+eii.at#EII
+dnew.cc#💤批量测延迟之后没网，请稍等一会儿-DNEW💤
+
+
+
+
 
 cf.090227.xyz#SG-CM
 ktff.tencentapp.cn#KTFF
