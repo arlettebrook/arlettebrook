@@ -8,7 +8,7 @@ www.shopify.com:443#⚡请优先使用延迟低的节点-HK⚡
 
 www.visa.cn#Visa
 mfa.gov.ua#SG-Ukraine
-www.shopify.com#Shopify「推荐」
+www.shopify.com#⚡Shopify「推荐」⚡
 store.ubi.com#SG-Ubisoft
 staticdelivery.nexusmods.com#NexusMods
 openai.com#Openai
