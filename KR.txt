@@ -2,6 +2,16 @@ www.shopify.com:443#⚡请优先使用延迟低的节点-HK⚡
 
 
 
+decathlon.qa#卡塔尔迪卡侬
+www.nike.qa#卡塔尔耐克
+converse.co.jp#日本匡威
+edion.co.jp#日本爱电王
+crocs.com.vn#越南卡洛驰
+tomleemusic.com.hk#香港通利
+www.dbs.com#新加坡星展
+www.victoriassecretbeauty.co.th#泰国维密
+www.bathandbodyworks.co.th#泰国BBW
+
 
 www.visa.cn#Visa
 mfa.gov.ua#SG-Ukraine
