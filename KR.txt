@@ -25,7 +25,7 @@ mfa.gov.ua#SG-Ukraine
 www.shopify.com#⚡Shopify「移动推荐」⚡
 store.ubi.com#SG-Ubisoft
 staticdelivery.nexusmods.com#🍓网络不佳请尝试切换节点|更新订阅|切换运营商🍓
-openai.com#🐛延迟低不一快|延迟高不一定慢🐛
+openai.com#🐛请优先使用延迟低的节点|延迟低不一快|延迟高不一定慢🐛
 
 
 
