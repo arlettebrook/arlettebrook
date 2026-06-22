@@ -82,8 +82,8 @@ cf.008500.xyz#HK-CF
 sub.danfeng.eu.org#TW-DANFENG
 cf.zhetengsha.eu.org#HK-ZHETENGSHA
 
-188.42.145.253:2096#US
-198.62.62.4#OTHER
+
+154.12.188.247#OTHER
 
 
 
