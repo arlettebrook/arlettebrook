@@ -29,15 +29,7 @@
 64.186.248.95:443#US | 移动推荐
 69.63.209.53:443#US | 移动推荐
 
-decathlon.qa#卡塔尔迪卡侬
-www.nike.qa#卡塔尔耐克
-converse.co.jp#日本匡威
-edion.co.jp#日本爱电王
-crocs.com.vn#越南卡洛驰
-tomleemusic.com.hk#香港通利
-www.dbs.com#新加坡星展
-www.victoriassecretbeauty.co.th#泰国维密
-www.bathandbodyworks.co.th#泰国BBW
+
 
 
 www.visa.cn#🎉YouTube看4K&拖拽不卡顿证明该节点速度快🎉
