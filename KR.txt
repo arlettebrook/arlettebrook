@@ -83,7 +83,7 @@ sub.danfeng.eu.org#TW-DANFENG
 cf.zhetengsha.eu.org#HK-ZHETENGSHA
 
 
-154.12.188.247#OTHER
+43.154.124.136:26666#OTHER
 
 
 
