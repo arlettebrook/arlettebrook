@@ -2,8 +2,8 @@
 43.160.247.113:9999#SG-机房
 126.61.114.117:11211#JP-住宅
 156.231.115.45:2443#JP-机房
-185.213.61.53:9911#hk-unknown
-212.135.211.94:6443#JP-unknown
+185.213.61.53:9911#hk-机房
+212.135.211.94:6443#JP-机房
 20.243.138.96:10443#JP-机房
 14.37.207.25:10035#KR-住宅
 175.206.245.6:26470#KR-住宅
@@ -36,8 +36,8 @@ www.visa.cn#🎉YouTube看4K&拖拽不卡顿证明该节点速度快🎉
 mfa.gov.ua#SG-Ukraine
 www.shopify.com#⚡Shopify「移动推荐」⚡
 store.ubi.com#SG-Ubisoft
-staticdelivery.nexusmods.com#🍓网络不佳请尝试切换节点|更新订阅|切换运营商🍓
-openai.com#🐛请优先使用延迟低的节点|延迟低不一快|延迟高不一定慢🐛
+staticdelivery.nexusmods.com#🍓网络不佳请尝试切换节点 | 更新订阅 | 切换运营商🍓
+openai.com#🐛请优先使用延迟低的节点 | 延迟低不一快 | 延迟高不一定慢🐛
 
 
 
