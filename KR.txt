@@ -76,6 +76,7 @@ cf.zhetengsha.eu.org#HK-ZHETENGSHA
 
 
 43.154.124.136:26666#OTHER
+43.168.16.112#CN
 
 
 
