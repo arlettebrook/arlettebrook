@@ -57,7 +57,7 @@ dnew.cc#💢批量测延迟之后没网，请稍等一会儿就会恢复💢
 
 cf.090227.xyz#SG-CM
 ktff.tencentapp.cn#KTFF
-cloudflare-dl.byoip.top#FISHCPY
+www.byoip.top#FISHCPY
 cf.877774.xyz#HK-QMS
 saas.sin.fan#JP-MIYU
 bestcf.030101.xyz#MINGYU
@@ -67,7 +67,7 @@ freeyx.cloudflare88.eu.org#FREEYX
 yapuyapu.com#YAPU
 cdns.doon.eu.org#JP-DOON
 nrt.xxxxxxxx.nyc.mn#NRT
-cloudflare-dl.cnae.top#CNAE
+www.cnae.top#CNAE
 b3.cfyx.20237737.xyz#CFYX
 cf.130519.xyz#KR-CF
 cf.008500.xyz#HK-CF
