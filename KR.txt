@@ -79,7 +79,6 @@ b3.cfyx.20237737.xyz#CFYX
 cf.130519.xyz#KR-CF
 cf.008500.xyz#HK-CF
 sub.danfeng.eu.org#TW-DANFENG
-cf.zhetengsha.eu.org#HK-ZHETENGSHA
 
 
 43.154.124.136:26666#OTHER
