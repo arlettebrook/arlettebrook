@@ -54,6 +54,15 @@ dnew.cc#💢批量测延迟之后没网，请稍等一会儿就会恢复💢
 
 
 
+cdn.9889888.xyz#988
+www.ntu.edu.sg#NTU
+cf.877774.xyz#8774
+cucc.cloudflare.seeck.cn#SEECK-联通-CU
+cmcc.cloudflare.seeck.cn:SEECK-移动-CM
+ctcc.cloudflare.seeck.cn#SEECK-电信-CT
+
+
+
 
 cf.090227.xyz#SG-CM
 ktff.tencentapp.cn#KTFF
