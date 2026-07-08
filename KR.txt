@@ -1,41 +1,41 @@
-103.117.100.17:3443#hk-机房
-43.160.247.113:9999#SG-机房
-126.61.114.117:11211#JP-住宅
-156.231.115.45:2443#JP-机房
-185.213.61.53:9911#hk-机房
-212.135.211.94:6443#JP-机房
-20.243.138.96:10443#JP-机房
-14.37.207.25:10035#KR-住宅
-175.206.245.6:26470#KR-住宅
-221.158.4.230:18853#KR-住宅
-175.196.171.78:10243#KR-住宅
-43.133.23.88:8388#JP-机房
-125.137.186.50:18852#KR-住宅
-14.36.43.211:18245#KR-住宅
-119.196.116.91:16922#KR-住宅
-121.141.108.90:10000#KR-住宅
+103.117.100.17:3443#hk•机房
+43.160.247.113:9999#SG•机房
+126.61.114.117:11211#JP•住宅
+156.231.115.45:2443#JP•机房
+185.213.61.53:9911#hk•机房
+212.135.211.94:6443#JP•机房
+20.243.138.96:10443#JP•机房
+14.37.207.25:10035#KR•住宅
+175.206.245.6:26470#KR•住宅
+221.158.4.230:18853#KR•住宅
+175.196.171.78:10243#KR•住宅
+43.133.23.88:8388#JP•机房
+125.137.186.50:18852#KR•住宅
+14.36.43.211:18245#KR•住宅
+119.196.116.91:16922#KR•住宅
+121.141.108.90:10000#KR•住宅
 
 
 
 
-64.186.255.128:443#US-移动推荐
-69.63.211.169:443#US-移动推荐
-64.186.227.57:443#US-移动推荐
-64.186.246.65:443#US-移动推荐
-64.186.231.35:443#US-移动推荐
-64.186.249.134:443#US-移动推荐
-64.186.242.43:443#US-移动推荐
-69.63.219.222:443#US-移动推荐
-64.186.248.95:443#US-移动推荐
-69.63.209.53:443#US-移动推荐
+64.186.255.128:443#US•移动
+69.63.211.169:443#US•移动
+64.186.227.57:443#US•移动
+64.186.246.65:443#US•移动
+64.186.231.35:443#US•移动
+64.186.249.134:443#US•移动
+64.186.242.43:443#US•移动
+69.63.219.222:443#US•移动
+64.186.248.95:443#US•移动
+69.63.209.53:443#US•移动
 
 
 
 
 www.visa.cn#🎉YouTube看4K & 拖拽不卡顿证明该节点速度快🎉
-mfa.gov.ua#SG-Ukraine
+mfa.gov.ua#SG•Ukraine
 www.shopify.com#Shopify
-store.ubi.com#SG-Ubisoft
+store.ubi.com#SG•Ubisoft
 staticdelivery.nexusmods.com#🍓网络不佳请尝试切换节点 & 更新订阅 & 切换运营商🍓
 openai.com#🐛请优先使用延迟低的节点 & 延迟低不一快 & 延迟高不一定慢🐛
 
@@ -56,29 +56,29 @@ dnew.cc#💢批量测延迟之后没网，请稍等一会儿就会恢复💢
 cdn.9889888.xyz#988
 www.ntu.edu.sg#NTU
 cf.877774.xyz#8774
-cucc.cloudflare.seeck.cn#SEECK-联通-CU
-cmcc.cloudflare.seeck.cn#SEECK-移动-CM
-ctcc.cloudflare.seeck.cn#SEECK-电信-CT
+cucc.cloudflare.seeck.cn#SEECK•联通CU
+cmcc.cloudflare.seeck.cn#SEECK•移动CM
+ctcc.cloudflare.seeck.cn#SEECK•电信CT
 
 
 
 
-cf.090227.xyz#SG-CM
+cf.090227.xyz#SG•CM
 ktff.tencentapp.cn#KTFF
 www.byoip.top#FISHCPY
-cf.877774.xyz#HK-QMS
-saas.sin.fan#JP-MIYU
+cf.877774.xyz#HK•QMS
+saas.sin.fan#JP•MIYU
 bestcf.030101.xyz#MINGYU
-cf.cloudflare.182682.xyz#WETEST.VIP
+cf.cloudflare.182682.xyz#WETEST
 cfyx.aliyun.20237737.xyz#ALIYUN
 freeyx.cloudflare88.eu.org#FREEYX
-cdns.doon.eu.org#JP-DOON
+cdns.doon.eu.org#JP•DOON
 nrt.xxxxxxxx.nyc.mn#NRT
 www.cnae.top#CNAE
 b3.cfyx.20237737.xyz#CFYX
-cf.130519.xyz#KR-CF
-cf.008500.xyz#HK-CF
-sub.danfeng.eu.org#TW-DANFENG
+cf.130519.xyz#KR•CF
+cf.008500.xyz#HK•CF
+sub.danfeng.eu.org#TW•DANFENG
 
 
 43.154.124.136:26666#OTHER
